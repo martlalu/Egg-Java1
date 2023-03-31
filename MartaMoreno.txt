@@ -3,3 +3,5 @@ Hola mundo
 otro mundo
 
 va a ir cambiando el mundo
+
+orgnaizando el repositorio de git
